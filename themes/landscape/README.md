@@ -74,7 +74,6 @@ Landscape uses [Fancybox] to showcase your photos. You can use Markdown syntax o
 ```
 ![img caption](img url)
 
-
 ```
 
 ### Sidebar
